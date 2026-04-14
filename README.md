@@ -39,4 +39,5 @@ It does not provide real-world antivirus protection.
 
 ## 👩‍💻 Author
 Disha Varma
-Linkedin --linkedin.com/in/disha-varma-28a771310
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/632de4b1-7930-46c7-90ca-f75825847b6a" />
+
